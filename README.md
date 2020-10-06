@@ -1,6 +1,7 @@
 # bubble_game
 
-A new Flutter application.
+A simple yet addicting Bubble Popping game built with Flutter.
+Dynamic game rules, infinite levels & 100% offline; no database used.
 
 ## Getting Started
 
